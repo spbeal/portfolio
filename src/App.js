@@ -28,12 +28,3 @@ function App() {
 }
 
 export default App;
-{/*
-        <Route path = '/' element = {<About/>}/>
-        <Route path = '/' element = {<About/>}/>
-        <Route path = '/' element = {<Skills/>}/>
-        <Route path = '/' element = {<Work/>}/>
-        <Route path = '/' element = {<Education/>}/>
-        <Route path = '/' element = {<Contact/>}/>
-      
-      */}
