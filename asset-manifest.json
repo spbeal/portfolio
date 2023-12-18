@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d7afa179.css",
-    "main.js": "/portfolio/static/js/main.ad71491f.js",
+    "main.js": "/portfolio/static/js/main.d2e57ece.js",
     "static/media/goats.jpeg": "/portfolio/static/media/goats.5466cd1f262d56861b82.jpeg",
     "static/media/universityofidaho.png": "/portfolio/static/media/universityofidaho.d215a391988e92bc3821.png",
     "static/media/python.png": "/portfolio/static/media/python.91072be85b01ef0961a8.png",
     "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/Good pfp.jpg": "/portfolio/static/media/Good pfp.2a8bdd61dc65d7794451.jpg",
+    "static/media/stockmarket.jpg": "/portfolio/static/media/stockmarket.83865b8d909173fe8f68.jpg",
     "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/Cleandownloads.png": "/portfolio/static/media/Cleandownloads.76d6a314ae54cbfaa3c1.png",
     "static/media/Green River College.jpg": "/portfolio/static/media/Green River College.c6167d3f5a19f5c947fc.jpg",
@@ -19,10 +20,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.d7afa179.css.map": "/portfolio/static/css/main.d7afa179.css.map",
-    "main.ad71491f.js.map": "/portfolio/static/js/main.ad71491f.js.map"
+    "main.d2e57ece.js.map": "/portfolio/static/js/main.d2e57ece.js.map"
   },
   "entrypoints": [
     "static/css/main.d7afa179.css",
-    "static/js/main.ad71491f.js"
+    "static/js/main.d2e57ece.js"
   ]
 }
