@@ -7,6 +7,7 @@ import MazeOutput from '../../assets/Visual studio maze6.png'
 import DownloadsPic from '../../assets/Cleandownloads.png'
 import DiscoverWeekly from '../../assets/discoverweekly.png'
 import StockPic from '../../assets/stockmarket.jpg'
+import PlatformerPic from '../../assets/2D_Platformer_QjdAii7a0L.png'
 
 const Work = () => {
   return (
@@ -62,7 +63,24 @@ const Work = () => {
                     </div>
                 </div>
 
-                    <div 
+                <div 
+                    style={{backgroundImage: `url(${PlatformerPic})`}} 
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            2D Platformer
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://github.com/spbeal/2D-Platformer-Raylib">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                                    Code
+                                </button>
+                            </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div 
                     style={{backgroundImage: `url(${DownloadsPic})`}} 
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     <div className='opacity-0 group-hover:opacity-100'>
