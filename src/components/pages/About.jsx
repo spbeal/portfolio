@@ -20,13 +20,13 @@ const About = () => {
                 </div>
                 <div>
                     <p className='text-lg '>
-                        This spring semester I will be a junior studying Computer Science at 
+                        I am currently a junior studying Computer Science at 
                         University of Idaho.
 
                         During my free time I'm always looking for ways to further develop my 
                         abilities through building useful applications.
 
-                        Lately I have been building projects in C++ or Python.
+                        Lately I have been building projects in C++ and Python.
 
                     </p>
                 </div>

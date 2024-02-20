@@ -17,7 +17,7 @@ const Education = () => {
                 <p className='py-1'>Computer Science</p>
                 </li>
                 <p className='mx-auto'> 2023-2025 
-                <p className='mx-auto py-1'>GPA: N/A</p>
+                <p className='mx-auto py-1'>GPA: 3.56/4.0</p>
                 </p>
                 </li>
 

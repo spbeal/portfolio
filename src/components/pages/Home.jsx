@@ -46,13 +46,13 @@ const Home = () => {
         <p className='hidden md:block text-center text-lg leading-8 text-[#8892b0] py-2 max-w-[700px] '> 
         I am a Computer Science Student at University of Idaho. 
         Experienced in C++, basic python, and basic web development. When I'm not studying, 
-        I am out with friends, playing water polo, or programming a new project 
+        I am out with friends, playing water polo, or programming.
          </p>
 
          <p className='md:hidden text-xl leading-8 text-[#8892b0] py-2 max-w-[700px]'> 
         I am a Computer Science Student at University of Idaho. 
         Experienced in C++, basic python, and basic web development. When I'm not studying, 
-        I am out with friends, playing water polo, or programming a new project 
+        I am out with friends, playing water polo, or programming.
          </p>
 
           {/* Social icons */}
