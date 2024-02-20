@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.96085405.css",
-    "main.js": "/portfolio/static/js/main.5cdc2665.js",
+    "main.js": "/portfolio/static/js/main.a88ee39d.js",
     "static/media/goats.jpeg": "/portfolio/static/media/goats.5466cd1f262d56861b82.jpeg",
     "static/media/universityofidaho.png": "/portfolio/static/media/universityofidaho.d215a391988e92bc3821.png",
     "static/media/python.png": "/portfolio/static/media/python.91072be85b01ef0961a8.png",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.96085405.css.map": "/portfolio/static/css/main.96085405.css.map",
-    "main.5cdc2665.js.map": "/portfolio/static/js/main.5cdc2665.js.map"
+    "main.a88ee39d.js.map": "/portfolio/static/js/main.a88ee39d.js.map"
   },
   "entrypoints": [
     "static/css/main.96085405.css",
-    "static/js/main.5cdc2665.js"
+    "static/js/main.a88ee39d.js"
   ]
 }
