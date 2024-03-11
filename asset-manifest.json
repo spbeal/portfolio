@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.96085405.css",
-    "main.js": "/portfolio/static/js/main.a88ee39d.js",
+    "main.js": "/portfolio/static/js/main.a9958842.js",
     "static/media/goats.jpeg": "/portfolio/static/media/goats.5466cd1f262d56861b82.jpeg",
     "static/media/universityofidaho.png": "/portfolio/static/media/universityofidaho.d215a391988e92bc3821.png",
     "static/media/python.png": "/portfolio/static/media/python.91072be85b01ef0961a8.png",
     "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/blobimageofme.png": "/portfolio/static/media/blobimageofme.e3baa0cd0fa587a912fd.png",
     "static/media/Good pfp.jpg": "/portfolio/static/media/Good pfp.2a8bdd61dc65d7794451.jpg",
     "static/media/stockmarket.jpg": "/portfolio/static/media/stockmarket.83865b8d909173fe8f68.jpg",
     "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
@@ -21,10 +22,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.96085405.css.map": "/portfolio/static/css/main.96085405.css.map",
-    "main.a88ee39d.js.map": "/portfolio/static/js/main.a88ee39d.js.map"
+    "main.a9958842.js.map": "/portfolio/static/js/main.a9958842.js.map"
   },
   "entrypoints": [
     "static/css/main.96085405.css",
-    "static/js/main.a88ee39d.js"
+    "static/js/main.a9958842.js"
   ]
 }
