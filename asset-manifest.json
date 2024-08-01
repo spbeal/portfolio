@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0446b7dd.css",
-    "main.js": "/portfolio/static/js/main.42717d15.js",
+    "main.css": "/portfolio/static/css/main.1d22891a.css",
+    "main.js": "/portfolio/static/js/main.b8a7b2ff.js",
     "static/media/goats.jpeg": "/portfolio/static/media/goats.5466cd1f262d56861b82.jpeg",
     "static/media/universityofidaho.png": "/portfolio/static/media/universityofidaho.d215a391988e92bc3821.png",
     "static/media/python.png": "/portfolio/static/media/python.91072be85b01ef0961a8.png",
@@ -22,11 +22,11 @@
     "static/media/SB nice color.png": "/portfolio/static/media/SB nice color.273048c551aa23a35ee1.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.0446b7dd.css.map": "/portfolio/static/css/main.0446b7dd.css.map",
-    "main.42717d15.js.map": "/portfolio/static/js/main.42717d15.js.map"
+    "main.1d22891a.css.map": "/portfolio/static/css/main.1d22891a.css.map",
+    "main.b8a7b2ff.js.map": "/portfolio/static/js/main.b8a7b2ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.0446b7dd.css",
-    "static/js/main.42717d15.js"
+    "static/css/main.1d22891a.css",
+    "static/js/main.b8a7b2ff.js"
   ]
 }
