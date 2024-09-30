@@ -2,6 +2,7 @@ import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { TypeAnimation } from "react-type-animation";
 import { Link } from "react-scroll";
+import Sam from "../../assets/Good pfp.jpg";
 import SamBlob from "../../assets/blobimageofme.png";
 
 import {
@@ -18,83 +19,74 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 }
 const Home = () => {
   return (
-    <div name="home" className="w-full h-screen bg-[#0a192f]">
+    <div name="home" className="w-full h-screen bg-almond">
       {/* Container */}
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center items-center h-full ">
-        <h1 className="text-4xl text-7x1 font-bold text-[#ccd6f6] sm:block border-b-4 border-pink-600">
-          Samuel Beal
-        </h1>
+      <div className="w-full mx-auto px-8 flex flex-col items-center justify-center h-full text-xl leading-8">
+        <div className="hidden sm:block">
+          <div className=" grid grid-cols-2">
+            <div>
+              <h1 className=" text-4xl font-bold sm:block underline decoration-pink-600 underline-offset-4 ">
+                Samuel Beal
+              </h1>
+              <p className="text-left text-xl leading-8 py-2 max-w-[400px] ">
+                I am a Computer Science Student at University of Idaho.
+                Experienced in C++, basic python, and basic web development.
+                When I'm not studying, I am out swing dancing, playing water
+                polo, or working on a new project
+              </p>
 
-        <div className="">
-          <p className=" mt-2 mb-3 text-2xl pt-1 font-extrabold tracking-tight text-text-color sm:text-4xl flex">
-            <p className=" hidden md:block whitespace-nowrap text-3xl font-extrabold text-stone-300">
-              &lt;
-              <span className="font-extrabold text-xl text-pink-600">div</span>
-              &gt;
-              {/* <span className="text-2xl mx-2 font-extrabold leading-7 text-stone-400">I build</span></p> */}
-              <span className="text-2xl mx-2 font-extrabold leading-7 text-[]">
-                I build
-              </span>
-            </p>
-            <p className=" hidden md:block text-xs pt-3 font-black tracking-wide text-stone-300">
-              <TypeAnimation
-                sequence={[
-                  "Quality of Life Applications",
-                  1000,
-                  "Websites",
-                  1000,
-                  "Small Games",
-                  1000,
-                  "Any and All Things!",
-                  1000,
-                ]}
-                wrapper="span"
-                speed={50}
-                style={{ fontSize: "2em", display: "inline-block" }}
-                repeat={Infinity}
-              />
-            </p>
-
-            <p className=" hidden md:block text-2xl font-bold pt-1 text-stone-300 ">
-              &lt;/
-              <span className="text-xl pt-1 font-extrabold text-pink-600">
-                div
-              </span>
-              &gt;
-            </p>
-          </p>
-        </div>
-        <p className="hidden md:block text-center text-lg leading-8 text-[#8892b0] py-2 max-w-[700px] ">
-          I am a Computer Science Student at University of Idaho. Experienced in
-          C++, basic python, and basic web development. When I'm not studying, I
-          am out with friends, playing water polo, or programming.
-        </p>
-
-        <p className="md:hidden text-xl leading-8 text-[#8892b0] py-2 max-w-[700px]">
-          I am a Computer Science Student at University of Idaho. Experienced in
-          C++, basic python, and basic web development. When I'm not studying, I
-          am out with friends, playing water polo, or programming.
-        </p>
-
-        {/* Social icons */}
-        <div className="py-4 grid grid-cols-2 text-4xl font-bold inline text-gray-300">
-          <div className="mx-3 ">
-            <a className="" href="https://www.linkedin.com/in/samuelbeal/">
-              <FaLinkedin size={30} />
-            </a>
-          </div>
-          <div className="mx-3 ">
-            <a className="" href="https://github.com/spbeal">
-              <FaGithub size={30} />
-            </a>
-            {/**
-              <div className='mx-3 '>
-            <a className='' 
-              href='/resume'>
-                <BsFillPersonLinesFill size={30}/>
-              </a>
+              {/* Social icons */}
+              <div className="py-4 grid grid-cols-6 space-x-0">
+                <div className="pl-4">
+                  <a
+                    className=""
+                    href="https://www.linkedin.com/in/samuelbeal/"
+                  >
+                    <FaLinkedin size={30} />
+                  </a>
+                </div>
+                <div className="">
+                  <a className="" href="https://github.com/spbeal">
+                    <FaGithub size={30} />
+                  </a>
+                </div>
+              </div>
             </div>
-               */}
+            <img className=" pl-6 h-72" src={SamBlob} alt="Me"></img>
+          </div>
+        </div>
+
+        {/* Mobile */}
+        <div className="sm:hidden">
+          <div>
+            <div className="">
+              <img className="h-72 mx-auto " src={SamBlob} alt="Me"></img>
+            </div>
+
+            <h1 className=" text-4xl font-bold underline decoration-pink-600 underline-offset-4 ">
+              Samuel Beal
+            </h1>
+            <p className=" text-xl leading-8 py-2 max-w-[700px]">
+              I am a Computer Science Student at University of Idaho.
+              Experienced in C++, basic python, and basic web development. When
+              I'm not studying, I am out with friends, playing water polo, or
+              programming a new project
+            </p>
+
+            {/* Social icons */}
+            <div className="py-4 grid grid-cols-12 space-x-0">
+              <div className="pl-4">
+                <a className="" href="https://www.linkedin.com/in/samuelbeal/">
+                  <FaLinkedin size={30} />
+                </a>
+              </div>
+              <div className="sm:hidden space-x-0"></div>
+              <div className="">
+                <a className="" href="https://github.com/spbeal">
+                  <FaGithub size={30} />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -4,11 +4,11 @@ import GRC from '../../assets/Green River College.jpg'
 
 const Education = () => {
   return (
-    <div name='education' className='wfull h-screen bg-[#0a192f] text-gray-300'>
+    <div name='education' className='wfull h-screen bg-almond'>
 {/*Container */}
         <div className=' max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className=''>
-                <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300'>Education</p>
+                <p className='text-4xl font-bold inline border-b-4 border-pink-600'>Education</p>
               <ul className='hidden md:block text-lg'>
                 <li className='py-8 grid grid-cols-4'>
                 <img className='w-20' src={Uidaho} alt="University of Idaho icon"/>
@@ -17,7 +17,7 @@ const Education = () => {
                 <p className='py-1'>Computer Science</p>
                 </li>
                 <p className='mx-auto'> 2023-2025 
-                <p className='mx-auto py-1'>GPA: 3.91/4.0</p>
+                <p className='mx-auto py-1'>GPA: 3.79/4.0</p>
                 </p>
                 </li>
 
