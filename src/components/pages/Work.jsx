@@ -119,7 +119,7 @@ const Work = () => {
                     </div>
                   </div>
                 </div>
-                <div 
+                {/* <div 
                 style = {{backgroundImage: `url(${goatFile})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -134,7 +134,7 @@ const Work = () => {
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 
             </div>
 
