@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ad4932fd.css",
-    "main.js": "/portfolio/static/js/main.1cf4dbaf.js",
+    "main.js": "/portfolio/static/js/main.f5e64fa7.js",
     "static/media/goats.jpeg": "/portfolio/static/media/goats.5466cd1f262d56861b82.jpeg",
     "static/media/universityofidaho.png": "/portfolio/static/media/universityofidaho.d215a391988e92bc3821.png",
     "static/media/python.png": "/portfolio/static/media/python.91072be85b01ef0961a8.png",
@@ -19,14 +19,15 @@
     "static/media/discoverweekly.png": "/portfolio/static/media/discoverweekly.73968c8c400cdf239b78.png",
     "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/c++.png": "/portfolio/static/media/c++.9d2158e2c62e36bef045.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/SB nice color.png": "/portfolio/static/media/SB nice color.273048c551aa23a35ee1.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.ad4932fd.css.map": "/portfolio/static/css/main.ad4932fd.css.map",
-    "main.1cf4dbaf.js.map": "/portfolio/static/js/main.1cf4dbaf.js.map"
+    "main.f5e64fa7.js.map": "/portfolio/static/js/main.f5e64fa7.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4932fd.css",
-    "static/js/main.1cf4dbaf.js"
+    "static/js/main.f5e64fa7.js"
   ]
 }
